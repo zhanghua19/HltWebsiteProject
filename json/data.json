@@ -1,0 +1,440 @@
+[
+    {
+		"id" : "shop01",
+		"src" : "goods1.jpg",
+		"nowPrice" : "29.9",
+		"beforePrice":"79.9",
+		"title":"包包女2018新款时尚皮带小方包百搭小包包简约复古单肩包斜挎女包可领50元淘宝优惠券",
+		"sale":"2840",
+		"coupons":"50"
+    },
+	{
+		"id" : "shop02",
+		"src" : "goods2.jpg",
+		"nowPrice" : "249",
+		"beforePrice":"279",
+		"title":"买一箱送一箱法国原瓶原装进口红酒波尔多干红葡萄酒整箱正品高档可领30元淘宝优惠券",
+		"sale":"380",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop03",
+		"src" : "goods3.jpg",
+		"nowPrice" : "168",
+		"beforePrice":"188",
+		"title":"【官方正品】EltaMD清透护肤三重防晒霜SPF4585g可领20元淘宝优惠券", 
+		"sale":"6570",
+		"coupons":"20"
+    },
+	{
+		"id" : "shop04",
+		"src" : "goods4.jpg",
+		"nowPrice" : "29.9",
+		"beforePrice":"59.9",
+		"title":"修身塑型美体基础长袖女保暖上衣舒适弹力贴身找底保暖上装秋冬可领30元淘宝优惠券", 
+		"sale":"1154",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop05",
+		"src" : "goods5.jpg",
+		"nowPrice" : "9.9",
+		"beforePrice":"12.9",
+		"title":"查名一猫多彩卷翘睫毛膏纤长浓密自然加密加长防水不易晕染睫毛膏可领3元淘宝优惠券", 
+		"sale":"523",
+		"coupons":"3"
+    },
+	{
+		"id" : "shop06",
+		"src" : "goods6.jpg",
+		"nowPrice" : "14.9",
+		"beforePrice":"24.9",
+		"title":"出口包头巾干发帽女日本超强吸水浴帽干发帽子速干加厚长发成人可领10元淘宝优惠券", 
+		"sale":"779",
+		"coupons":"10"
+    },
+	{
+		"id" : "shop07",
+		"src" : "goods7.jpg",
+		"nowPrice" : "38",
+		"beforePrice":"58",
+		"title":"正宗霍山铁皮石斛花石斛花茶茶叶枫斗干花15克养身花草茶2018新花可领20元淘宝优惠券", 
+		"sale":"499",
+		"coupons":"20"
+    },
+	{
+		"id" : "shop08",
+		"src" : "goods8.jpg",
+		"nowPrice" : "249",
+		"beforePrice":"270",
+		"title":"买一箱送一箱法国原瓶原装进口红酒波尔多干红葡萄酒正品整箱6支可领30元淘宝优惠券", 
+		"sale":"2888",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop09",
+		"src" : "goods9.jpg",
+		"nowPrice" : "9",
+		"beforePrice":"39",
+		"title":"舒友阁去狐臭腋臭正品香体止汗露净味水持久根腋下喷雾狐臭净男女可领30元淘宝优惠券", 
+		"sale":"9315",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop10",
+		"src" : "goods10.jpg",
+		"nowPrice" : "29",
+		"beforePrice":"39",
+		"title":"美康粉黛修护唇膜淡化唇纹唇色去角质补水保湿滋润睡眠唇部护理可领10元淘宝优惠券", 
+		"sale":"273",
+		"coupons":"10"
+    },
+	{
+		"id" : "shop11",
+		"src" : "goods11.jpg",
+		"nowPrice" : "39.8",
+		"beforePrice":"49.8",
+		"title":"猫粮10斤幼猫成猫主粮20省包邮英短美短通用深海鱼肉味天然粮5kg可领10元淘宝优惠券", 
+		"sale":"4923",
+		"coupons":"10"
+    },
+	{
+		"id" : "shop12",
+		"src" : "goods12.jpg",
+		"nowPrice" : "36",
+		"beforePrice":"56",
+		"title":"秋冬款高弹性保暖上衣家居服睡衣家庭修身运动女士加绒内衣背心可领20元淘宝优惠券", 
+		"sale":"1069",
+		"coupons":"20"
+    },
+    {
+		"id" : "shop13",
+		"src" : "goods1.jpg",
+		"nowPrice" : "29.9",
+		"beforePrice":"79.9",
+		"title":"包包女2018新款时尚皮带小方包百搭小包包简约复古单肩包斜挎女包可领50元淘宝优惠券",
+		"sale":"2840",
+		"coupons":"50"
+    },
+	{
+		"id" : "shop14",
+		"src" : "goods2.jpg",
+		"nowPrice" : "249",
+		"beforePrice":"279",
+		"title":"买一箱送一箱法国原瓶原装进口红酒波尔多干红葡萄酒整箱正品高档可领30元淘宝优惠券",
+		"sale":"380",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop15",
+		"src" : "goods3.jpg",
+		"nowPrice" : "168",
+		"beforePrice":"188",
+		"title":"【官方正品】EltaMD清透护肤三重防晒霜SPF4585g可领20元淘宝优惠券", 
+		"sale":"6570",
+		"coupons":"20"
+    },
+	{
+		"id" : "shop16",
+		"src" : "goods4.jpg",
+		"nowPrice" : "29.9",
+		"beforePrice":"59.9",
+		"title":"修身塑型美体基础长袖女保暖上衣舒适弹力贴身找底保暖上装秋冬可领30元淘宝优惠券", 
+		"sale":"1154",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop17",
+		"src" : "goods5.jpg",
+		"nowPrice" : "9.9",
+		"beforePrice":"12.9",
+		"title":"查名一猫多彩卷翘睫毛膏纤长浓密自然加密加长防水不易晕染睫毛膏可领3元淘宝优惠券", 
+		"sale":"523",
+		"coupons":"3"
+    },
+	{
+		"id" : "shop18",
+		"src" : "goods6.jpg",
+		"nowPrice" : "14.9",
+		"beforePrice":"24.9",
+		"title":"出口包头巾干发帽女日本超强吸水浴帽干发帽子速干加厚长发成人可领10元淘宝优惠券", 
+		"sale":"779",
+		"coupons":"10"
+    },
+	{
+		"id" : "shop19",
+		"src" : "goods7.jpg",
+		"nowPrice" : "38",
+		"beforePrice":"58",
+		"title":"正宗霍山铁皮石斛花石斛花茶茶叶枫斗干花15克养身花草茶2018新花可领20元淘宝优惠券", 
+		"sale":"499",
+		"coupons":"20"
+    },
+	{
+		"id" : "shop20",
+		"src" : "goods8.jpg",
+		"nowPrice" : "249",
+		"beforePrice":"270",
+		"title":"买一箱送一箱法国原瓶原装进口红酒波尔多干红葡萄酒正品整箱6支可领30元淘宝优惠券", 
+		"sale":"2888",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop21",
+		"src" : "goods9.jpg",
+		"nowPrice" : "9",
+		"beforePrice":"39",
+		"title":"舒友阁去狐臭腋臭正品香体止汗露净味水持久根腋下喷雾狐臭净男女可领30元淘宝优惠券", 
+		"sale":"9315",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop22",
+		"src" : "goods10.jpg",
+		"nowPrice" : "29",
+		"beforePrice":"39",
+		"title":"美康粉黛修护唇膜淡化唇纹唇色去角质补水保湿滋润睡眠唇部护理可领10元淘宝优惠券", 
+		"sale":"273",
+		"coupons":"10"
+    },
+	{
+		"id" : "shop23",
+		"src" : "goods11.jpg",
+		"nowPrice" : "39.8",
+		"beforePrice":"49.8",
+		"title":"猫粮10斤幼猫成猫主粮20省包邮英短美短通用深海鱼肉味天然粮5kg可领10元淘宝优惠券", 
+		"sale":"4923",
+		"coupons":"10"
+    },
+	{
+		"id" : "shop24",
+		"src" : "goods12.jpg",
+		"nowPrice" : "36",
+		"beforePrice":"56",
+		"title":"秋冬款高弹性保暖上衣家居服睡衣家庭修身运动女士加绒内衣背心可领20元淘宝优惠券", 
+		"sale":"1069",
+		"coupons":"20"
+   },
+
+    {
+		"id" : "shop25",
+		"src" : "goods1.jpg",
+		"nowPrice" : "29.9",
+		"beforePrice":"79.9",
+		"title":"包包女2018新款时尚皮带小方包百搭小包包简约复古单肩包斜挎女包可领50元淘宝优惠券",
+		"sale":"2840",
+		"coupons":"50"
+    },
+	{
+		"id" : "shop26",
+		"src" : "goods2.jpg",
+		"nowPrice" : "249",
+		"beforePrice":"279",
+		"title":"买一箱送一箱法国原瓶原装进口红酒波尔多干红葡萄酒整箱正品高档可领30元淘宝优惠券",
+		"sale":"380",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop27",
+		"src" : "goods3.jpg",
+		"nowPrice" : "168",
+		"beforePrice":"188",
+		"title":"【官方正品】EltaMD清透护肤三重防晒霜SPF4585g可领20元淘宝优惠券", 
+		"sale":"6570",
+		"coupons":"20"
+    },
+	{
+		"id" : "shop28",
+		"src" : "goods4.jpg",
+		"nowPrice" : "29.9",
+		"beforePrice":"59.9",
+		"title":"修身塑型美体基础长袖女保暖上衣舒适弹力贴身找底保暖上装秋冬可领30元淘宝优惠券", 
+		"sale":"1154",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop29",
+		"src" : "goods5.jpg",
+		"nowPrice" : "9.9",
+		"beforePrice":"12.9",
+		"title":"查名一猫多彩卷翘睫毛膏纤长浓密自然加密加长防水不易晕染睫毛膏可领3元淘宝优惠券", 
+		"sale":"523",
+		"coupons":"3"
+    },
+	{
+		"id" : "shop30",
+		"src" : "goods6.jpg",
+		"nowPrice" : "14.9",
+		"beforePrice":"24.9",
+		"title":"出口包头巾干发帽女日本超强吸水浴帽干发帽子速干加厚长发成人可领10元淘宝优惠券", 
+		"sale":"779",
+		"coupons":"10"
+    },
+	{
+		"id" : "shop31",
+		"src" : "goods7.jpg",
+		"nowPrice" : "38",
+		"beforePrice":"58",
+		"title":"正宗霍山铁皮石斛花石斛花茶茶叶枫斗干花15克养身花草茶2018新花可领20元淘宝优惠券", 
+		"sale":"499",
+		"coupons":"20"
+    },
+	{
+		"id" : "shop32",
+		"src" : "goods8.jpg",
+		"nowPrice" : "249",
+		"beforePrice":"270",
+		"title":"买一箱送一箱法国原瓶原装进口红酒波尔多干红葡萄酒正品整箱6支可领30元淘宝优惠券", 
+		"sale":"2888",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop33",
+		"src" : "goods9.jpg",
+		"nowPrice" : "9",
+		"beforePrice":"39",
+		"title":"舒友阁去狐臭腋臭正品香体止汗露净味水持久根腋下喷雾狐臭净男女可领30元淘宝优惠券", 
+		"sale":"9315",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop34",
+		"src" : "goods10.jpg",
+		"nowPrice" : "29",
+		"beforePrice":"39",
+		"title":"美康粉黛修护唇膜淡化唇纹唇色去角质补水保湿滋润睡眠唇部护理可领10元淘宝优惠券", 
+		"sale":"273",
+		"coupons":"10"
+    },
+	{
+		"id" : "shop35",
+		"src" : "goods11.jpg",
+		"nowPrice" : "39.8",
+		"beforePrice":"49.8",
+		"title":"猫粮10斤幼猫成猫主粮20省包邮英短美短通用深海鱼肉味天然粮5kg可领10元淘宝优惠券", 
+		"sale":"4923",
+		"coupons":"10"
+    },
+	{
+		"id" : "shop36",
+		"src" : "goods12.jpg",
+		"nowPrice" : "36",
+		"beforePrice":"56",
+		"title":"秋冬款高弹性保暖上衣家居服睡衣家庭修身运动女士加绒内衣背心可领20元淘宝优惠券", 
+		"sale":"1069",
+		"coupons":"20"
+    },
+    {
+		"id" : "shop37",
+		"src" : "goods1.jpg",
+		"nowPrice" : "29.9",
+		"beforePrice":"79.9",
+		"title":"包包女2018新款时尚皮带小方包百搭小包包简约复古单肩包斜挎女包可领50元淘宝优惠券",
+		"sale":"2840",
+		"coupons":"50"
+    },
+	{
+		"id" : "shop38",
+		"src" : "goods2.jpg",
+		"nowPrice" : "249",
+		"beforePrice":"279",
+		"title":"买一箱送一箱法国原瓶原装进口红酒波尔多干红葡萄酒整箱正品高档可领30元淘宝优惠券",
+		"sale":"380",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop39",
+		"src" : "goods3.jpg",
+		"nowPrice" : "168",
+		"beforePrice":"188",
+		"title":"【官方正品】EltaMD清透护肤三重防晒霜SPF4585g可领20元淘宝优惠券", 
+		"sale":"6570",
+		"coupons":"20"
+    },
+	{
+		"id" : "shop40",
+		"src" : "goods4.jpg",
+		"nowPrice" : "29.9",
+		"beforePrice":"59.9",
+		"title":"修身塑型美体基础长袖女保暖上衣舒适弹力贴身找底保暖上装秋冬可领30元淘宝优惠券", 
+		"sale":"1154",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop41",
+		"src" : "goods5.jpg",
+		"nowPrice" : "9.9",
+		"beforePrice":"12.9",
+		"title":"查名一猫多彩卷翘睫毛膏纤长浓密自然加密加长防水不易晕染睫毛膏可领3元淘宝优惠券", 
+		"sale":"523",
+		"coupons":"3"
+    },
+	{
+		"id" : "shop42",
+		"src" : "goods6.jpg",
+		"nowPrice" : "14.9",
+		"beforePrice":"24.9",
+		"title":"出口包头巾干发帽女日本超强吸水浴帽干发帽子速干加厚长发成人可领10元淘宝优惠券", 
+		"sale":"779",
+		"coupons":"10"
+    },
+	{
+		"id" : "shop43",
+		"src" : "goods7.jpg",
+		"nowPrice" : "38",
+		"beforePrice":"58",
+		"title":"正宗霍山铁皮石斛花石斛花茶茶叶枫斗干花15克养身花草茶2018新花可领20元淘宝优惠券", 
+		"sale":"499",
+		"coupons":"20"
+    },
+	{
+		"id" : "shop44",
+		"src" : "goods8.jpg",
+		"nowPrice" : "249",
+		"beforePrice":"270",
+		"title":"买一箱送一箱法国原瓶原装进口红酒波尔多干红葡萄酒正品整箱6支可领30元淘宝优惠券", 
+		"sale":"2888",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop45",
+		"src" : "goods9.jpg",
+		"nowPrice" : "9",
+		"beforePrice":"39",
+		"title":"舒友阁去狐臭腋臭正品香体止汗露净味水持久根腋下喷雾狐臭净男女可领30元淘宝优惠券", 
+		"sale":"9315",
+		"coupons":"30"
+    },
+	{
+		"id" : "shop46",
+		"src" : "goods10.jpg",
+		"nowPrice" : "29",
+		"beforePrice":"39",
+		"title":"美康粉黛修护唇膜淡化唇纹唇色去角质补水保湿滋润睡眠唇部护理可领10元淘宝优惠券", 
+		"sale":"273",
+		"coupons":"10"
+    },
+	{
+		"id" : "shop47",
+		"src" : "goods11.jpg",
+		"nowPrice" : "39.8",
+		"beforePrice":"49.8",
+		"title":"猫粮10斤幼猫成猫主粮20省包邮英短美短通用深海鱼肉味天然粮5kg可领10元淘宝优惠券", 
+		"sale":"4923",
+		"coupons":"10"
+    },
+	{
+		"id" : "shop48",
+		"src" : "goods12.jpg",
+		"nowPrice" : "36",
+		"beforePrice":"56",
+		"title":"秋冬款高弹性保暖上衣家居服睡衣家庭修身运动女士加绒内衣背心可领20元淘宝优惠券", 
+		"sale":"1069",
+		"coupons":"20"
+   }
+	
+	
+]
+
+	
+
