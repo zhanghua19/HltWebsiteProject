@@ -242,9 +242,12 @@ input{border: none;}
 	height: 42px;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 2-25提交
+=======
+>>>>>>> 7146b9ff1b8d09daa79e8e6d93473cd38e234138
 .left-bar li div{
 	float: left;
     line-height: 40px;
@@ -485,6 +488,7 @@ input{border: none;}
     height: 80px;
 } 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .main .nav-location{
 	position: sticky;
 	top: 0;
@@ -496,6 +500,11 @@ input{border: none;}
 	z-index: 999;
 	background: white;
 >>>>>>> 2-25提交
+=======
+.main .nav-location{
+	position: sticky;
+	top: 0;
+>>>>>>> 7146b9ff1b8d09daa79e8e6d93473cd38e234138
 }
 .main .nav-location .line-nav{
 	width: 1200px;
@@ -554,6 +563,7 @@ input{border: none;}
 	margin: 0 auto;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 .main .clear:before{
 	    content: "";
@@ -576,6 +586,8 @@ input{border: none;}
     clear: both;
 }
 >>>>>>> 2-25提交
+=======
+>>>>>>> 7146b9ff1b8d09daa79e8e6d93473cd38e234138
 .main .goods-list .goods-item{
 	float: left;
 	width: 284px;
@@ -997,6 +1009,7 @@ input{border: none;}
 	color: #c9c9d4;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
     
 =======
 /*最右边悬浮栏-----------------------*/  
@@ -1233,3 +1246,6 @@ input{border: none;}
 	margin: 0 0 0 9px;
 }
 >>>>>>> 2-25提交
+=======
+    
+>>>>>>> 7146b9ff1b8d09daa79e8e6d93473cd38e234138
